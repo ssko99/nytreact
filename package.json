@@ -1,13 +1,13 @@
 {
-  "name": "react-example",
+  "name": "NYT React",
   "version": "1.0.0",
-  "description": "",
-  "main": "public/index.html",
+  "description": "A NY Time articles search",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -w"
   },
-  "author": "Ahmed Haque",
+  "author": "Stephen Ko",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",
