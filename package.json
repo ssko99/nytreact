@@ -9,6 +9,9 @@
   },
   "author": "Stephen Ko",
   "license": "ISC",
+  "engines": {
+    "node": "4.4.7"
+  },
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
