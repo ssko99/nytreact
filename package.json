@@ -1,5 +1,5 @@
 {
-  "name": "NYT React",
+  "name": "NYTReact",
   "version": "1.0.0",
   "description": "A NY Time articles search",
   "main": "server.js",
