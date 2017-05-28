@@ -16,8 +16,7 @@ on user searches. Also use Node, Express and MongoDB so that users can save arti
 
      * `*` (get) - will load your single HTML page (with ReactJS) in public/index.html. Make sure you put this after all other GET routes
      ```
-
-   * The layout should include three React Components named `Main`, `Search` and `Saved`.
+* The layout should include three React Components named `Main`, `Search` and `Saved`.
 
      ```
      * **Main** - contains the main-container div that holds the main layout and navigation. This component should also be able to hold sub-components Search and Saved
